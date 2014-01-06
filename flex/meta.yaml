@@ -1,0 +1,16 @@
+package:
+  name: flex
+  version: 2.5.37
+
+source:
+  fn: flex-2.5.37.tar.bz2
+  url: http://downloads.sourceforge.net/project/flex/flex-2.5.37.tar.bz2?r=http%3A%2F%2Fflex.sourceforge.net%2F&ts=1389000801&use_mirror=superb-dca2
+  md5: c75940e1fc25108f2a7b3ef42abdae06
+
+#test:
+#  commands:
+#    - cmake --help
+
+about:
+  home: http://flex.sourceforge.net/
+  license: GPL
